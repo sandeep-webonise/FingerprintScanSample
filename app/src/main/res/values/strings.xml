@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FingerprintAutenticationSample</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="note">(Fingerprint sign in makes your app login much faster.
+        Your device should have at least one fingerprint registered in device settings)</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully logged in with fingerprint authentication</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+    <string name="hardware_not_available">Your device doesn\'t support Fingerprint scanning</string>
+    <string name="incompatible_os">Your device OS version is not supported.</string>
+    <string name="no_fingerprint_enrolled">You have not enrolled any finger print.</string>
+    <string name="lock_screen_security_not_enabled">Lock screen security not enabled in
+        Settings</string>
+</resources>
